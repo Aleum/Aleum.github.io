@@ -114,7 +114,7 @@ url-pretty: "Aleum.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+fb_comment_id: "740607936357592"
 
 # Staticman support
 staticman:
