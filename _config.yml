@@ -24,9 +24,9 @@ description: Study Backend Programming and Machine Learning
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - 9X9 Alphago "https://github.com/Aleum/AlphaGo"
-  Author's home: "https://github.com/Aleum"
+  Projects:
+    - 9X9 Alphago: "https://github.com/Aleum/AlphaGo"
+  Github: "https://github.com/Aleum"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -78,12 +78,12 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: true
-  google: true
+  google: false
   linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Aleum.github.iom"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Aleum.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
